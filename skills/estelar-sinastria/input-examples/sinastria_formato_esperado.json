@@ -1,0 +1,49 @@
+// Exemplo ILUSTRATIVO do formato esperado para os aspectos de SINASTRIA
+// (cruzamento entre o mapa da Pessoa A e o mapa da Pessoa B).
+// O formato segue o mesmo padrão de "chart.aspects" dos mapas individuais,
+// mas planet1 e planet2 indicam de qual pessoa é o planeta.
+
+{
+  "synastryAspects": [
+    {
+      "planet1": "Lua (A)",
+      "planet2": "Marte (B)",
+      "type": "Quadratura",
+      "symbol": "□",
+      "exactAngle": 90,
+      "actualAngle": 93.5,
+      "orb": 3.5
+    },
+    {
+      "planet1": "Vênus (A)",
+      "planet2": "Sol (B)",
+      "type": "Trígono",
+      "symbol": "△",
+      "exactAngle": 120,
+      "actualAngle": 121.2,
+      "orb": 1.2
+    }
+    // ... demais aspectos relevantes entre os dois mapas
+  ],
+
+  // Opcional: posições do mapa composto (ponto médio entre os dois mapas)
+  "composite": {
+    "planets": [
+      {
+        "name": "Sol",
+        "sign": "Câncer",
+        "house": 7
+      }
+      // ... demais planetas do composto, mesmo formato dos mapas individuais
+    ],
+    "houses": [
+      // mesma estrutura de "chart.houses" dos mapas individuais
+    ]
+  }
+}
+
+// NOTA: Se o usuário não tiver o mapa composto calculado, a skill pode
+// trabalhar apenas com os aspectos de sinastria (cruzamento A x B), que
+// já cobrem a maior parte dos pontos do Método Estelar (Capítulos 3-6).
+// O composto enriquece especialmente o Capítulo 8 (Casa 7, Casa 8, Casa 12
+// "da relação") mas não é obrigatório.

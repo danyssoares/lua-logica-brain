@@ -1,0 +1,431 @@
+{
+  "ok": true,
+  "input": {
+    "name": "Daniele Espindola",
+    "birthDate": "1983-02-10",
+    "birthTime": "01:19",
+    "unknownTime": false,
+    "location": "Rio de Janeiro, RJ, Brazil",
+    "latitude": -22.9110137,
+    "longitude": -43.2093727,
+    "timezone": "America/Sao_Paulo"
+  },
+  "chart": {
+    "ascendant": {
+      "longitude": 262.3528,
+      "sign": "Sagitário",
+      "signGlyph": "♐",
+      "degreeInSign": 22.352800000000002,
+      "degreeInSignFormatted": "22° 21'"
+    },
+    "midheaven": {
+      "longitude": 159.6715,
+      "sign": "Virgem",
+      "signGlyph": "♍",
+      "degreeInSign": 9.671500000000037,
+      "degreeInSignFormatted": "9° 40'"
+    },
+    "houses": [
+      {
+        "house": 1,
+        "longitude": 262.3528,
+        "sign": "Sagitário",
+        "signGlyph": "♐",
+        "degreeInSign": 22.352800000000002,
+        "degreeInSignFormatted": "22° 21'"
+      },
+      {
+        "house": 2,
+        "longitude": 288.1257,
+        "sign": "Capricórnio",
+        "signGlyph": "♑",
+        "degreeInSign": 18.12570000000005,
+        "degreeInSignFormatted": "18° 08'"
+      },
+      {
+        "house": 3,
+        "longitude": 313.8986,
+        "sign": "Aquário",
+        "signGlyph": "♒",
+        "degreeInSign": 13.898599999999988,
+        "degreeInSignFormatted": "13° 54'"
+      },
+      {
+        "house": 4,
+        "longitude": 339.6715,
+        "sign": "Peixes",
+        "signGlyph": "♓",
+        "degreeInSign": 9.671499999999924,
+        "degreeInSignFormatted": "9° 40'"
+      },
+      {
+        "house": 5,
+        "longitude": 13.8986,
+        "sign": "Áries",
+        "signGlyph": "♈",
+        "degreeInSign": 13.898599999999988,
+        "degreeInSignFormatted": "13° 54'"
+      },
+      {
+        "house": 6,
+        "longitude": 48.1257,
+        "sign": "Touro",
+        "signGlyph": "♉",
+        "degreeInSign": 18.125699999999995,
+        "degreeInSignFormatted": "18° 08'"
+      },
+      {
+        "house": 7,
+        "longitude": 82.3528,
+        "sign": "Gêmeos",
+        "signGlyph": "♊",
+        "degreeInSign": 22.352800000000002,
+        "degreeInSignFormatted": "22° 21'"
+      },
+      {
+        "house": 8,
+        "longitude": 108.1257,
+        "sign": "Câncer",
+        "signGlyph": "♋",
+        "degreeInSign": 18.125699999999995,
+        "degreeInSignFormatted": "18° 08'"
+      },
+      {
+        "house": 9,
+        "longitude": 133.8986,
+        "sign": "Leão",
+        "signGlyph": "♌",
+        "degreeInSign": 13.898599999999988,
+        "degreeInSignFormatted": "13° 54'"
+      },
+      {
+        "house": 10,
+        "longitude": 159.6715,
+        "sign": "Virgem",
+        "signGlyph": "♍",
+        "degreeInSign": 9.671500000000037,
+        "degreeInSignFormatted": "9° 40'"
+      },
+      {
+        "house": 11,
+        "longitude": 193.8986,
+        "sign": "Libra",
+        "signGlyph": "♎",
+        "degreeInSign": 13.898599999999988,
+        "degreeInSignFormatted": "13° 54'"
+      },
+      {
+        "house": 12,
+        "longitude": 228.1257,
+        "sign": "Escorpião",
+        "signGlyph": "♏",
+        "degreeInSign": 18.12570000000005,
+        "degreeInSignFormatted": "18° 08'"
+      }
+    ],
+    "planets": [
+      {
+        "name": "Sol",
+        "glyph": "☉",
+        "longitude": 320.85339819140904,
+        "sign": "Aquário",
+        "signGlyph": "♒",
+        "degreeInSign": 20.853398191409042,
+        "degreeInSignFormatted": "20° 51'",
+        "isRetrograde": false,
+        "house": 3
+      },
+      {
+        "name": "Lua",
+        "glyph": "☽",
+        "longitude": 289.99283601892114,
+        "sign": "Capricórnio",
+        "signGlyph": "♑",
+        "degreeInSign": 19.99283601892114,
+        "degreeInSignFormatted": "20° 00'",
+        "isRetrograde": false,
+        "house": 2
+      },
+      {
+        "name": "Mercúrio",
+        "glyph": "☿",
+        "longitude": 295.17508725349126,
+        "sign": "Capricórnio",
+        "signGlyph": "♑",
+        "degreeInSign": 25.175087253491256,
+        "degreeInSignFormatted": "25° 11'",
+        "isRetrograde": false,
+        "house": 2
+      },
+      {
+        "name": "Vênus",
+        "glyph": "♀",
+        "longitude": 344.24915237395317,
+        "sign": "Peixes",
+        "signGlyph": "♓",
+        "degreeInSign": 14.249152373953166,
+        "degreeInSignFormatted": "14° 15'",
+        "isRetrograde": false,
+        "house": 4
+      },
+      {
+        "name": "Marte",
+        "glyph": "♂",
+        "longitude": 348.4959170703937,
+        "sign": "Peixes",
+        "signGlyph": "♓",
+        "degreeInSign": 18.495917070393716,
+        "degreeInSignFormatted": "18° 30'",
+        "isRetrograde": false,
+        "house": 4
+      },
+      {
+        "name": "Júpiter",
+        "glyph": "♃",
+        "longitude": 247.82767105790344,
+        "sign": "Sagitário",
+        "signGlyph": "♐",
+        "degreeInSign": 7.827671057903444,
+        "degreeInSignFormatted": "7° 50'",
+        "isRetrograde": false,
+        "house": 12
+      },
+      {
+        "name": "Saturno",
+        "glyph": "♄",
+        "longitude": 214.4323898479803,
+        "sign": "Escorpião",
+        "signGlyph": "♏",
+        "degreeInSign": 4.432389847980289,
+        "degreeInSignFormatted": "4° 26'",
+        "isRetrograde": false,
+        "house": 11
+      },
+      {
+        "name": "Urano",
+        "glyph": "♅",
+        "longitude": 248.64387058907346,
+        "sign": "Sagitário",
+        "signGlyph": "♐",
+        "degreeInSign": 8.643870589073458,
+        "degreeInSignFormatted": "8° 39'",
+        "isRetrograde": false,
+        "house": 12
+      },
+      {
+        "name": "Netuno",
+        "glyph": "♆",
+        "longitude": 268.5558147636277,
+        "sign": "Sagitário",
+        "signGlyph": "♐",
+        "degreeInSign": 28.555814763627723,
+        "degreeInSignFormatted": "28° 33'",
+        "isRetrograde": false,
+        "house": 1
+      },
+      {
+        "name": "Plutão",
+        "glyph": "♇",
+        "longitude": 209.50605246655766,
+        "sign": "Libra",
+        "signGlyph": "♎",
+        "degreeInSign": 29.506052466557662,
+        "degreeInSignFormatted": "29° 30'",
+        "isRetrograde": true,
+        "house": 11
+      },
+      {
+        "name": "Quíron",
+        "glyph": "⚷",
+        "longitude": 53.24495932220651,
+        "sign": "Touro",
+        "signGlyph": "♉",
+        "degreeInSign": 23.244959322206512,
+        "degreeInSignFormatted": "23° 15'",
+        "isRetrograde": false,
+        "house": 6
+      },
+      {
+        "name": "Nodo Norte",
+        "glyph": "☊",
+        "longitude": 91.73408170270886,
+        "sign": "Câncer",
+        "signGlyph": "♋",
+        "degreeInSign": 1.7340817027088633,
+        "degreeInSignFormatted": "1° 44'",
+        "isRetrograde": true,
+        "house": 7
+      }
+    ],
+    "aspects": [
+      {
+        "planet1": "Sol",
+        "planet2": "Quíron",
+        "type": "Quadratura",
+        "symbol": "□",
+        "exactAngle": 90,
+        "actualAngle": 92.39,
+        "orb": 2.39
+      },
+      {
+        "planet1": "Lua",
+        "planet2": "Mercúrio",
+        "type": "Conjunção",
+        "symbol": "☌",
+        "exactAngle": 0,
+        "actualAngle": 5.18,
+        "orb": 5.18
+      },
+      {
+        "planet1": "Lua",
+        "planet2": "Vênus",
+        "type": "Sextil",
+        "symbol": "⚹",
+        "exactAngle": 60,
+        "actualAngle": 54.26,
+        "orb": 5.74
+      },
+      {
+        "planet1": "Lua",
+        "planet2": "Marte",
+        "type": "Sextil",
+        "symbol": "⚹",
+        "exactAngle": 60,
+        "actualAngle": 58.5,
+        "orb": 1.5
+      },
+      {
+        "planet1": "Lua",
+        "planet2": "Quíron",
+        "type": "Trígono",
+        "symbol": "△",
+        "exactAngle": 120,
+        "actualAngle": 123.25,
+        "orb": 3.25
+      },
+      {
+        "planet1": "Mercúrio",
+        "planet2": "Plutão",
+        "type": "Quadratura",
+        "symbol": "□",
+        "exactAngle": 90,
+        "actualAngle": 85.67,
+        "orb": 4.33
+      },
+      {
+        "planet1": "Mercúrio",
+        "planet2": "Quíron",
+        "type": "Trígono",
+        "symbol": "△",
+        "exactAngle": 120,
+        "actualAngle": 118.07,
+        "orb": 1.93
+      },
+      {
+        "planet1": "Vênus",
+        "planet2": "Marte",
+        "type": "Conjunção",
+        "symbol": "☌",
+        "exactAngle": 0,
+        "actualAngle": 4.25,
+        "orb": 4.25
+      },
+      {
+        "planet1": "Vênus",
+        "planet2": "Júpiter",
+        "type": "Quadratura",
+        "symbol": "□",
+        "exactAngle": 90,
+        "actualAngle": 96.42,
+        "orb": 6.42
+      },
+      {
+        "planet1": "Vênus",
+        "planet2": "Urano",
+        "type": "Quadratura",
+        "symbol": "□",
+        "exactAngle": 90,
+        "actualAngle": 95.61,
+        "orb": 5.61
+      },
+      {
+        "planet1": "Marte",
+        "planet2": "Quíron",
+        "type": "Sextil",
+        "symbol": "⚹",
+        "exactAngle": 60,
+        "actualAngle": 64.75,
+        "orb": 4.75
+      },
+      {
+        "planet1": "Júpiter",
+        "planet2": "Urano",
+        "type": "Conjunção",
+        "symbol": "☌",
+        "exactAngle": 0,
+        "actualAngle": 0.82,
+        "orb": 0.82
+      },
+      {
+        "planet1": "Saturno",
+        "planet2": "Netuno",
+        "type": "Sextil",
+        "symbol": "⚹",
+        "exactAngle": 60,
+        "actualAngle": 54.12,
+        "orb": 5.88
+      },
+      {
+        "planet1": "Saturno",
+        "planet2": "Plutão",
+        "type": "Conjunção",
+        "symbol": "☌",
+        "exactAngle": 0,
+        "actualAngle": 4.93,
+        "orb": 4.93
+      },
+      {
+        "planet1": "Saturno",
+        "planet2": "Nodo Norte",
+        "type": "Trígono",
+        "symbol": "△",
+        "exactAngle": 120,
+        "actualAngle": 122.7,
+        "orb": 2.7
+      },
+      {
+        "planet1": "Netuno",
+        "planet2": "Plutão",
+        "type": "Sextil",
+        "symbol": "⚹",
+        "exactAngle": 60,
+        "actualAngle": 59.05,
+        "orb": 0.95
+      },
+      {
+        "planet1": "Netuno",
+        "planet2": "Nodo Norte",
+        "type": "Oposição",
+        "symbol": "☍",
+        "exactAngle": 180,
+        "actualAngle": 176.82,
+        "orb": 3.18
+      },
+      {
+        "planet1": "Plutão",
+        "planet2": "Nodo Norte",
+        "type": "Trígono",
+        "symbol": "△",
+        "exactAngle": 120,
+        "actualAngle": 117.77,
+        "orb": 2.23
+      }
+    ]
+  },
+  "metadata": {
+    "generatedAt": "2026-05-11T22:38:06.936Z",
+    "version": "1.0.0",
+    "houseSystem": "placidus",
+    "zodiacSystem": "tropical"
+  }
+}

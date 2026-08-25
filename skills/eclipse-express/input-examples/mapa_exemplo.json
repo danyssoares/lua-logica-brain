@@ -1,0 +1,51 @@
+{
+  "consulente": {
+    "nome": "Nome da Consulente",
+    "data_nascimento": "1990-05-12",
+    "local_nascimento": "Rio de Janeiro, RJ"
+  },
+  "eclipse": {
+    "data": "2026-08-12",
+    "tipo": "Lunar",
+    "signo": "Leao",
+    "grau": "20°02'",
+    "casa_afetada_no_mapa_do_mundo": "não relevante para leitura individual"
+  },
+  "mapa_natal": {
+    "ascendente": { "signo": "Escorpiao", "grau": "14°30'" },
+    "meio_do_ceu": { "signo": "Leao", "grau": "22°10'" },
+    "planetas": [
+      { "nome": "Sol", "signo": "Aquario", "grau": "23°05'", "casa": 3 },
+      { "nome": "Lua", "signo": "Cancer", "grau": "08°40'", "casa": 8 },
+      { "nome": "Mercurio", "signo": "Aquario", "grau": "15°12'", "casa": 3 },
+      { "nome": "Venus", "signo": "Peixes", "grau": "02°18'", "casa": 4 },
+      { "nome": "Marte", "signo": "Peixes", "grau": "05°50'", "casa": 4 },
+      { "nome": "Jupiter", "signo": "Capricornio", "grau": "10°00'", "casa": 2 },
+      { "nome": "Saturno", "signo": "Capricornio", "grau": "27°45'", "casa": 2 },
+      { "nome": "Urano", "signo": "Capricornio", "grau": "05°20'", "casa": 2 },
+      { "nome": "Netuno", "signo": "Capricornio", "grau": "14°15'", "casa": 2 },
+      { "nome": "Plutao", "signo": "Escorpiao", "grau": "16°30'", "casa": 1 },
+      { "nome": "Nodo Norte", "signo": "Cancer", "grau": "03°10'", "casa": 7 }
+    ],
+    "casas": [
+      { "casa": 1, "signo": "Escorpiao" },
+      { "casa": 2, "signo": "Sagitario" },
+      { "casa": 3, "signo": "Capricornio" },
+      { "casa": 4, "signo": "Aquario" },
+      { "casa": 5, "signo": "Peixes" },
+      { "casa": 6, "signo": "Aries" },
+      { "casa": 7, "signo": "Touro" },
+      { "casa": 8, "signo": "Gemeos" },
+      { "casa": 9, "signo": "Cancer" },
+      { "casa": 10, "signo": "Leao" },
+      { "casa": 11, "signo": "Virgem" },
+      { "casa": 12, "signo": "Libra" }
+    ]
+  },
+  "transitos_para_fase_2": {
+    "observacao": "Preencher só na Fase 2, com as passagens de Sol e Marte pelo mesmo grau/signo do eclipse nos proximos 6 meses",
+    "sol_no_grau_do_eclipse": { "data_aproximada": "2026-08-12" },
+    "marte_no_grau_do_eclipse": { "data_aproximada": "2026-10-05" },
+    "outros_planetas_relevantes": []
+  }
+}
