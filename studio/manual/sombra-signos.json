@@ -1,0 +1,195 @@
+{
+	"outSlug": "sombra-dos-signos",
+	"proporcao": "4:5",
+	"backgroundScene": "A deep purple night sky (#450E5D) filled with elegant, minimal constellation line-art: thin, delicate gold (#C6A156) lines connecting small glowing star points, forming a few abstract constellation patterns scattered across the frame, denser near the upper portion. Soft cinematic glow, fine film grain, moody and elegant. Abstract, no figures, no faces, no text. Ample negative space in the lower half for text overlay. Vertical 4:5 composition.",
+	"slides": [
+		{
+			"kind": "capa",
+			"variant": "frase-unica",
+			"lines": [
+				{ "text": "A sombra de cada signo está escondida", "font": "paragraph", "weight": 300 },
+				{ "text": "atrás da sua maior virtude.", "font": "title", "color": "gold" },
+				{ "text": "Não acredita? Vem ler aqui.", "font": "paragraph", "weight": 300, "color": "muted" }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"lines": [
+				{ "text": "Jung chamou de sombra o que a gente negou em si para se tornar quem é.", "font": "paragraph", "weight": 300 },
+				{ "text": "Ela não aparece como defeito — aparece disfarçada de virtude.", "font": "title", "color": "gold" },
+				{ "text": "Na astrologia junguiana, ela vive no eixo oposto ao seu signo: exatamente o que você aprendeu a não ser.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 0
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Áries",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♈", "shadowAngleDeg": -35, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de independência.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de precisar.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você resolve tudo sozinha e depois fica com raiva de ninguém ter oferecido ajuda.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Touro",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♉", "shadowAngleDeg": -50, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de lealdade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de descobrir o que você quer de verdade.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você continua com o que já está montado mesmo tendo parado de querer.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Gêmeos",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♊", "shadowAngleDeg": -20, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de curiosidade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de ter que escolher um lado.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você muda de assunto assim que a conversa exige que você se posicione.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Câncer",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♋", "shadowAngleDeg": -60, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de cuidado.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de ser deixada.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você lembra tudo o que já fez pela pessoa — e ela sente que deve.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Leão",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♌", "shadowAngleDeg": -15, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de generosidade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de ser comum.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você conta uma história sua no meio da história do outro.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Virgem",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♍", "shadowAngleDeg": -45, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de zelo.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de que o erro seja seu.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você aponta o que faltou antes de dizer que ficou bom.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Libra",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♎", "shadowAngleDeg": -25, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de gentileza.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de ocupar espaço.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você concorda na hora e sai da conversa com raiva.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Escorpião",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♏", "shadowAngleDeg": -55, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de profundidade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de confiar.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando está tudo bem e você começa a procurar o que está errado.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Sagitário",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♐", "shadowAngleDeg": -10, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de otimismo.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de sentir.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando alguém desabafa e você já devolve um aprendizado.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Capricórnio",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♑", "shadowAngleDeg": -40, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de responsabilidade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de depender.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando alguém se oferece pra ajudar e você responde \"deixa, é mais rápido eu fazer\".", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Aquário",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♒", "shadowAngleDeg": -30, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de autenticidade.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de não ser aceita.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você acha bobo justamente aquilo que todo mundo está gostando.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "conteudo",
+			"variant": "stagger",
+			"kicker": "Peixes",
+			"kickerSize": "large",
+			"zodiacGlyph": { "symbol": "♓", "shadowAngleDeg": -65, "edge": "right" },
+			"lines": [
+				{ "text": "Você chama de empatia.", "font": "paragraph", "weight": 300 },
+				{ "text": "É medo de decepcionar.", "font": "title", "color": "gold" },
+				{ "text": "Aparece quando você diz sim exausta porque o não parecia mais caro.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "cta",
+			"variant": "stagger",
+			"lines": [
+				{ "text": "Se você leu o seu e pensou \"mas isso é uma qualidade\",", "font": "paragraph", "weight": 300 },
+				{ "text": "é porque funcionou.", "font": "title", "color": "gold" },
+				{ "text": "A sombra só continua agindo enquanto a gente acha que é virtude.", "font": "paragraph", "weight": 300 },
+				{ "text": "Salva pra reler no dia em que você jurar que não é você.", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		}
+	],
+	"legenda": "A sua sombra não se apresenta como defeito. Ela chega disfarçada de qualidade — e é por isso que você defende ela com tanta convicção.\n\nJung chamou de sombra o que a gente precisou negar em si para se tornar quem é. A astrologia junguiana, com Liz Greene, colocou essa parte no eixo oposto do mapa: Áries negou que precisa dos outros, Libra negou a própria vontade, Capricórnio negou que depende, Câncer negou o cálculo.\n\nPassa até o seu e presta atenção na segunda linha. É ali que dói.\n\nMe conta qual foi o mais certeiro.\n\n#astrologia #autoconhecimento #carljung #sombra #lizgreene"
+}

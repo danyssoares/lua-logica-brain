@@ -11,6 +11,7 @@ Repositório de apoio para geração de conteúdo, imagens e automações da mar
 - **astrologia/** — mapa natal de referência e metodologia de interpretação (Aion)
 - **automacoes/** — descrição dos fluxos n8n e arquitetura de publicação (sem credenciais)
 - **skills/** — cópia das skills usadas com o Claude (Aion, Eclipse Express, Estelar Sinastria)
+- **studio/** — pipeline de produção de Reels/carrosséis (Remotion + Supabase + Replicate). Tem `.env` próprio, nunca commitado — ver `studio/README.md`
 
 ## ⚠️ Regra de ouro
 

@@ -1,0 +1,67 @@
+{
+	"outSlug": "frases-carl-jung",
+	"proporcao": "4:5",
+	"backgroundScene": "A soft, moody mystical astrological background: deep violet-purple cosmic texture, a warm golden glow softly diffusing from the upper area like distant starlight, faint delicate constellations and scattered stars, subtle astrological glyphs and soft sacred-geometry linework woven very faintly into the texture, gentle nebula clouds, subtle film grain, elegant and minimal — no leaves, no plants, no objects, no figures, no text, just a rich celestial textured backdrop with soft light and shadow play.",
+	"slides": [
+		{
+			"kind": "capa",
+			"lines": [
+				{ "text": "Frases de", "font": "paragraph", "weight": 300 },
+				{ "text": "Carl Jung", "font": "title", "color": "gold" },
+				{ "text": "que vão mudar a forma como você se vê", "font": "paragraph", "weight": 300 }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "Eu não sou o que aconteceu comigo.", "font": "subtitle" },
+				{ "text": "Sou o que escolho me tornar.", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 0
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "Até você tornar o inconsciente consciente,", "font": "subtitle" },
+				{ "text": "ele vai dirigir sua vida", "font": "subtitle" },
+				{ "text": "e você vai chamar isso de destino.", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 1
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "Conhecer a própria escuridão", "font": "subtitle" },
+				{ "text": "é o melhor jeito de lidar com a escuridão alheia.", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 0
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "Tudo que te irrita nos outros", "font": "subtitle" },
+				{ "text": "pode te ensinar sobre você mesma.", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 0
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "O privilégio de uma vida inteira", "font": "subtitle" },
+				{ "text": "é se tornar quem você realmente é.", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 0
+		},
+		{
+			"kind": "frase-unica",
+			"lines": [
+				{ "text": "Você aprendeu a se ver", "font": "subtitle" },
+				{ "text": "pelos olhos de quem te pediu pra ser outra coisa.", "font": "subtitle" },
+				{ "text": "E se você se olhasse com os seus?", "font": "title", "color": "gold" }
+			],
+			"dividerAfterLine": 1
+		}
+	],
+	"legenda": "Carl Jung passou a vida estudando o que a gente evita olhar de frente: a própria sombra.\n\nEssas frases não são sobre positividade forçada — são sobre parar de terceirizar pros outros o que só você pode enxergar em você.\n\nQual dessas mexeu mais com você? Me conta aqui embaixo. 👇\n\n#carljung #psicologiaprofunda #autoconhecimento #sombra #inconsciente #jung #desenvolvimentopessoal #astrologia #lualogica #despertar"
+}

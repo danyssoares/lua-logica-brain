@@ -1,0 +1,9 @@
+.DS_Store
+
+# studio/ (Remotion + pipeline) tem seu próprio .gitignore, mas reforça aqui
+# a regra de ouro do README: nunca credenciais, nunca output gerado pesado.
+studio/node_modules
+studio/.env
+studio/out/
+studio/producao/
+studio/.remotion/
